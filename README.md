@@ -1,8 +1,11 @@
-### Hi there 👋
-## I am Ekant Chandrakar
+## 👋 Hi, I am Ekant Chandrakar [^-^]
 
 
 - 🔭 I’m currently working on MY PROBLEM SOLVING SKILL
+- ✔  Coding Skills
+  - 🎉 C++, Data Structures and Algorithms.
+  - Web Development, HTML, CSS, Javascript, React, Nodejs, Expressjs, MongoDB.
+  - ☁️ Cloud Technology : Heroku
 - 🌱 I’m currently learning REACT
 - 📫 This is the way to reach me 
   - [My Email](ekantchandrakar07@gmail.com)
