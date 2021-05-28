@@ -1,5 +1,12 @@
 ### Hi there 👋
+## I am Ekant Chandrakar
 
+
+- 🔭 I’m currently working on MY PROBLEM SOLVING SKILL
+- 🌱 I’m currently learning REACT
+- 📫 This is the way to reach me 
+  - [My Email](ekantchandrakar07@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/ekantchandrakar/)
 <!--
 **ekantchandrakar/ekantchandrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
