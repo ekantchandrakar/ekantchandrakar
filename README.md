@@ -1,12 +1,7 @@
 ## 👋 Hi, I am Ekant Chandrakar [^-^]
 
 
-- 🔭 I’m currently working on MY PROBLEM SOLVING SKILL
-- ✔  Coding Skills
-  - 🎉 C++, Data Structures and Algorithms.
-  - Web Development, HTML, CSS, Javascript, React, Nodejs, Expressjs, MongoDB.
-  - ☁️ Cloud Technology : Heroku
-- 🌱 I’m currently learning REACT
+- 👨‍💻 Full Stack Software Engineer @ Ford 
 - 📫 This is the way to reach me 
   - [My Email](ekantchandrakar07@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/ekantchandrakar/)
