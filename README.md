@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Ekant Chandrakar [^-^]
 
 
-- 👨‍💻 Full Stack Software Engineer @ Ford 
+- 👨‍💻 Software Engineer @ Ford 
 - 📫 This is the way to reach me 
   - [My Email](ekantchandrakar07@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/ekantchandrakar/)
