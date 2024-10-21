@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Software Engineer @ Ford 
-- 📫 You can react me through 
+- 📫 You can react me through -
   - [My Email](ekantchandrakar07@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/ekantchandrakar/)
 <!--
